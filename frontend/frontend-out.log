@@ -1,0 +1,191 @@
+
+> smart-meeting-room-system@1.0.0 start
+> react-scripts start
+
+[34mi[39m [90m｢wds｣[39m: Project is running at http://192.168.15.1/
+[34mi[39m [90m｢wds｣[39m: webpack output is served from 
+[34mi[39m [90m｢wds｣[39m: Content not from webpack is served from C:\Users\party\BookingService\smart-meeting-room-system\frontend\public
+[34mi[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+Failed to compile.
+
+src\components\ApprovalQueue.tsx
+Syntax error: Unexpected token, expected ")" (13:27)
+
+[0m [90m 11 |[39m                 [36mconst[39m response [33m=[39m [36mawait[39m getPendingApprovals()[33m;[39m
+ [90m 12 |[39m                 setApprovals(response[33m.[39mdata)[33m;[39m
+[31m[1m>[22m[39m[90m 13 |[39m             } [36mcatch[39m (error[33m:[39m unknown) {
+ [90m    |[39m                           [31m[1m^[22m[39m
+ [90m 14 |[39m                 [36mconst[39m msg [33m=[39m error [36minstanceof[39m [33mError[39m [33m?[39m error[33m.[39mmessage [33m:[39m [33mString[39m(error)[33m;[39m
+ [90m 15 |[39m                 console[33m.[39merror([32m'Error fetching approvals:'[39m[33m,[39m msg)[33m;[39m
+ [90m 16 |[39m             } [36mfinally[39m {[0m
+Compiling...
+Failed to compile.
+
+src\components\ApprovalQueue.tsx
+Syntax error: Unexpected token, expected ")" (13:27)
+
+[0m [90m 11 |[39m                 [36mconst[39m response [33m=[39m [36mawait[39m getPendingApprovals()[33m;[39m
+ [90m 12 |[39m                 setApprovals(response[33m.[39mdata)[33m;[39m
+[31m[1m>[22m[39m[90m 13 |[39m             } [36mcatch[39m (error[33m:[39m unknown) {
+ [90m    |[39m                           [31m[1m^[22m[39m
+ [90m 14 |[39m                 [36mconst[39m msg [33m=[39m error [36minstanceof[39m [33mError[39m [33m?[39m error[33m.[39mmessage [33m:[39m [33mString[39m(error)[33m;[39m
+ [90m 15 |[39m                 console[33m.[39merror([32m'Error fetching approvals:'[39m[33m,[39m msg)[33m;[39m
+ [90m 16 |[39m             } [36mfinally[39m {[0m
+Compiling...
+Failed to compile.
+
+src\components\ApprovalQueue.tsx
+Syntax error: Unexpected token, expected ")" (13:27)
+
+[0m [90m 11 |[39m                 [36mconst[39m response [33m=[39m [36mawait[39m getPendingApprovals()[33m;[39m
+ [90m 12 |[39m                 setApprovals(response[33m.[39mdata)[33m;[39m
+[31m[1m>[22m[39m[90m 13 |[39m             } [36mcatch[39m (error[33m:[39m unknown) {
+ [90m    |[39m                           [31m[1m^[22m[39m
+ [90m 14 |[39m                 [36mconst[39m msg [33m=[39m error [36minstanceof[39m [33mError[39m [33m?[39m error[33m.[39mmessage [33m:[39m [33mString[39m(error)[33m;[39m
+ [90m 15 |[39m                 console[33m.[39merror([32m'Error fetching approvals:'[39m[33m,[39m msg)[33m;[39m
+ [90m 16 |[39m             } [36mfinally[39m {[0m
+Compiling...
+Failed to compile.
+
+src\components\ApprovalQueue.tsx
+Syntax error: Unexpected token, expected ")" (13:27)
+
+[0m [90m 11 |[39m                 [36mconst[39m response [33m=[39m [36mawait[39m getPendingApprovals()[33m;[39m
+ [90m 12 |[39m                 setApprovals(response[33m.[39mdata)[33m;[39m
+[31m[1m>[22m[39m[90m 13 |[39m             } [36mcatch[39m (error[33m:[39m unknown) {
+ [90m    |[39m                           [31m[1m^[22m[39m
+ [90m 14 |[39m                 [36mconst[39m msg [33m=[39m error [36minstanceof[39m [33mError[39m [33m?[39m error[33m.[39mmessage [33m:[39m [33mString[39m(error)[33m;[39m
+ [90m 15 |[39m                 console[33m.[39merror([32m'Error fetching approvals:'[39m[33m,[39m msg)[33m;[39m
+ [90m 16 |[39m             } [36mfinally[39m {[0m
+Compiling...
+Failed to compile.
+
+src\components\ApprovalQueue.tsx
+Syntax error: Unexpected token, expected ")" (13:27)
+
+[0m [90m 11 |[39m                 [36mconst[39m response [33m=[39m [36mawait[39m getPendingApprovals()[33m;[39m
+ [90m 12 |[39m                 setApprovals(response[33m.[39mdata)[33m;[39m
+[31m[1m>[22m[39m[90m 13 |[39m             } [36mcatch[39m (error[33m:[39m unknown) {
+ [90m    |[39m                           [31m[1m^[22m[39m
+ [90m 14 |[39m                 [36mconst[39m msg [33m=[39m error [36minstanceof[39m [33mError[39m [33m?[39m error[33m.[39mmessage [33m:[39m [33mString[39m(error)[33m;[39m
+ [90m 15 |[39m                 console[33m.[39merror([32m'Error fetching approvals:'[39m[33m,[39m msg)[33m;[39m
+ [90m 16 |[39m             } [36mfinally[39m {[0m
+Compiling...
+Failed to compile.
+
+src\components\ApprovalQueue.tsx
+Syntax error: Unexpected token, expected ")" (13:27)
+
+[0m [90m 11 |[39m                 [36mconst[39m response [33m=[39m [36mawait[39m getPendingApprovals()[33m;[39m
+ [90m 12 |[39m                 setApprovals(response[33m.[39mdata)[33m;[39m
+[31m[1m>[22m[39m[90m 13 |[39m             } [36mcatch[39m (error[33m:[39m unknown) {
+ [90m    |[39m                           [31m[1m^[22m[39m
+ [90m 14 |[39m                 [36mconst[39m msg [33m=[39m error [36minstanceof[39m [33mError[39m [33m?[39m error[33m.[39mmessage [33m:[39m [33mString[39m(error)[33m;[39m
+ [90m 15 |[39m                 console[33m.[39merror([32m'Error fetching approvals:'[39m[33m,[39m msg)[33m;[39m
+ [90m 16 |[39m             } [36mfinally[39m {[0m
+Compiling...
+Failed to compile.
+
+src\components\ApprovalQueue.tsx
+Syntax error: Unexpected token, expected ")" (13:27)
+
+[0m [90m 11 |[39m                 [36mconst[39m response [33m=[39m [36mawait[39m getPendingApprovals()[33m;[39m
+ [90m 12 |[39m                 setApprovals(response[33m.[39mdata)[33m;[39m
+[31m[1m>[22m[39m[90m 13 |[39m             } [36mcatch[39m (error[33m:[39m unknown) {
+ [90m    |[39m                           [31m[1m^[22m[39m
+ [90m 14 |[39m                 [36mconst[39m msg [33m=[39m error [36minstanceof[39m [33mError[39m [33m?[39m error[33m.[39mmessage [33m:[39m [33mString[39m(error)[33m;[39m
+ [90m 15 |[39m                 console[33m.[39merror([32m'Error fetching approvals:'[39m[33m,[39m msg)[33m;[39m
+ [90m 16 |[39m             } [36mfinally[39m {[0m
+Compiling...
+Failed to compile.
+
+src\components\ApprovalQueue.tsx
+Syntax error: Unexpected token, expected ")" (13:27)
+
+[0m [90m 11 |[39m                 [36mconst[39m response [33m=[39m [36mawait[39m getPendingApprovals()[33m;[39m
+ [90m 12 |[39m                 setApprovals(response[33m.[39mdata)[33m;[39m
+[31m[1m>[22m[39m[90m 13 |[39m             } [36mcatch[39m (error[33m:[39m unknown) {
+ [90m    |[39m                           [31m[1m^[22m[39m
+ [90m 14 |[39m                 [36mconst[39m msg [33m=[39m error [36minstanceof[39m [33mError[39m [33m?[39m error[33m.[39mmessage [33m:[39m [33mString[39m(error)[33m;[39m
+ [90m 15 |[39m                 console[33m.[39merror([32m'Error fetching approvals:'[39m[33m,[39m msg)[33m;[39m
+ [90m 16 |[39m             } [36mfinally[39m {[0m
+Compiling...
+Failed to compile.
+
+src\components\ApprovalQueue.tsx
+Syntax error: Unexpected token, expected ")" (13:27)
+
+[0m [90m 11 |[39m                 [36mconst[39m response [33m=[39m [36mawait[39m getPendingApprovals()[33m;[39m
+ [90m 12 |[39m                 setApprovals(response[33m.[39mdata)[33m;[39m
+[31m[1m>[22m[39m[90m 13 |[39m             } [36mcatch[39m (error[33m:[39m unknown) {
+ [90m    |[39m                           [31m[1m^[22m[39m
+ [90m 14 |[39m                 [36mconst[39m msg [33m=[39m error [36minstanceof[39m [33mError[39m [33m?[39m error[33m.[39mmessage [33m:[39m [33mString[39m(error)[33m;[39m
+ [90m 15 |[39m                 console[33m.[39merror([32m'Error fetching approvals:'[39m[33m,[39m msg)[33m;[39m
+ [90m 16 |[39m             } [36mfinally[39m {[0m
+Compiling...
+Failed to compile.
+
+src\components\ApprovalQueue.tsx
+Syntax error: Unexpected token, expected ")" (13:27)
+
+[0m [90m 11 |[39m                 [36mconst[39m response [33m=[39m [36mawait[39m getPendingApprovals()[33m;[39m
+ [90m 12 |[39m                 setApprovals(response[33m.[39mdata)[33m;[39m
+[31m[1m>[22m[39m[90m 13 |[39m             } [36mcatch[39m (error[33m:[39m unknown) {
+ [90m    |[39m                           [31m[1m^[22m[39m
+ [90m 14 |[39m                 [36mconst[39m msg [33m=[39m error [36minstanceof[39m [33mError[39m [33m?[39m error[33m.[39mmessage [33m:[39m [33mString[39m(error)[33m;[39m
+ [90m 15 |[39m                 console[33m.[39merror([32m'Error fetching approvals:'[39m[33m,[39m msg)[33m;[39m
+ [90m 16 |[39m             } [36mfinally[39m {[0m
+Compiling...
+Failed to compile.
+
+src\components\ApprovalQueue.tsx
+Syntax error: Unexpected token, expected ")" (13:27)
+
+[0m [90m 11 |[39m                 [36mconst[39m response [33m=[39m [36mawait[39m getPendingApprovals()[33m;[39m
+ [90m 12 |[39m                 setApprovals(response[33m.[39mdata)[33m;[39m
+[31m[1m>[22m[39m[90m 13 |[39m             } [36mcatch[39m (error[33m:[39m unknown) {
+ [90m    |[39m                           [31m[1m^[22m[39m
+ [90m 14 |[39m                 [36mconst[39m msg [33m=[39m error [36minstanceof[39m [33mError[39m [33m?[39m error[33m.[39mmessage [33m:[39m [33mString[39m(error)[33m;[39m
+ [90m 15 |[39m                 console[33m.[39merror([32m'Error fetching approvals:'[39m[33m,[39m msg)[33m;[39m
+ [90m 16 |[39m             } [36mfinally[39m {[0m
+Compiling...
+Failed to compile.
+
+src\components\ApprovalQueue.tsx
+Syntax error: Unexpected token, expected ")" (13:27)
+
+[0m [90m 11 |[39m                 [36mconst[39m response [33m=[39m [36mawait[39m getPendingApprovals()[33m;[39m
+ [90m 12 |[39m                 setApprovals(response[33m.[39mdata)[33m;[39m
+[31m[1m>[22m[39m[90m 13 |[39m             } [36mcatch[39m (error[33m:[39m unknown) {
+ [90m    |[39m                           [31m[1m^[22m[39m
+ [90m 14 |[39m                 [36mconst[39m msg [33m=[39m error [36minstanceof[39m [33mError[39m [33m?[39m error[33m.[39mmessage [33m:[39m [33mString[39m(error)[33m;[39m
+ [90m 15 |[39m                 console[33m.[39merror([32m'Error fetching approvals:'[39m[33m,[39m msg)[33m;[39m
+ [90m 16 |[39m             } [36mfinally[39m {[0m
+Compiling...
+Failed to compile.
+
+src\components\ApprovalQueue.tsx
+Syntax error: Unexpected token, expected ")" (13:27)
+
+[0m [90m 11 |[39m                 [36mconst[39m response [33m=[39m [36mawait[39m getPendingApprovals()[33m;[39m
+ [90m 12 |[39m                 setApprovals(response[33m.[39mdata)[33m;[39m
+[31m[1m>[22m[39m[90m 13 |[39m             } [36mcatch[39m (error[33m:[39m unknown) {
+ [90m    |[39m                           [31m[1m^[22m[39m
+ [90m 14 |[39m                 [36mconst[39m msg [33m=[39m error [36minstanceof[39m [33mError[39m [33m?[39m error[33m.[39mmessage [33m:[39m [33mString[39m(error)[33m;[39m
+ [90m 15 |[39m                 console[33m.[39merror([32m'Error fetching approvals:'[39m[33m,[39m msg)[33m;[39m
+ [90m 16 |[39m             } [36mfinally[39m {[0m
+Compiling...
+Failed to compile.
+
+src\components\ApprovalQueue.tsx
+Syntax error: Unexpected token, expected ")" (13:27)
+
+[0m [90m 11 |[39m                 [36mconst[39m response [33m=[39m [36mawait[39m getPendingApprovals()[33m;[39m
+ [90m 12 |[39m                 setApprovals(response[33m.[39mdata)[33m;[39m
+[31m[1m>[22m[39m[90m 13 |[39m             } [36mcatch[39m (error[33m:[39m unknown) {
+ [90m    |[39m                           [31m[1m^[22m[39m
+ [90m 14 |[39m                 [36mconst[39m msg [33m=[39m error [36minstanceof[39m [33mError[39m [33m?[39m error[33m.[39mmessage [33m:[39m [33mString[39m(error)[33m;[39m
+ [90m 15 |[39m                 console[33m.[39merror([32m'Error fetching approvals:'[39m[33m,[39m msg)[33m;[39m
+ [90m 16 |[39m             } [36mfinally[39m {[0m

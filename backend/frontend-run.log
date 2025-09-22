@@ -1,0 +1,10 @@
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path C:\Users\party\BookingService\smart-meeting-room-system\backend/package.json
+npm ERR! errno -4058
+npm ERR! enoent ENOENT: no such file or directory, open 'C:\Users\party\BookingService\smart-meeting-room-system\backend\package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\party\AppData\Local\npm-cache\_logs\2025-09-19T18_16_23_619Z-debug-0.log

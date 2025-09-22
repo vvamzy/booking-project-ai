@@ -1,0 +1,47 @@
+.booking-form .form-control:focus,
+.booking-form .form-select:focus {
+    border-color: #86b7fe;
+    box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+}
+
+.booking-form .btn-primary {
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    padding: 12px 24px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+.booking-form .btn-primary:hover {
+    transform: scale(1.02);
+    transition: all 0.2s ease;
+    background-color: #0b5ed7;
+}
+
+.booking-form .form-label {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+    color: #495057;
+}
+
+.booking-form .form-control,
+.booking-form .form-select {
+    border: 1px solid #ced4da;
+    padding: 12px;
+    font-size: 1rem;
+    transition: all 0.2s ease;
+}
+
+.booking-form textarea.form-control {
+    resize: vertical;
+    min-height: 100px;
+}
+
+.booking-form .shadow-sm {
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+.booking-form .alert {
+    border-radius: 8px;
+    font-weight: 500;
+}
